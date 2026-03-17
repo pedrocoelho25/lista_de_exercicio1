@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-  <img alt="upe" src="./img/upe-logo.png" width="200"/>
+  <img alt="upe" src="./img/upe-logo.png"/>
 </p>
 
 -----
