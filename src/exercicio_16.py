@@ -8,4 +8,8 @@ def odd_numbers(n: int) -> list[int]:
     Returns:
         list[int]: lista de números ímpares
     """
-    pass
+    list = []
+    for i in range(1, n + 1):
+        if i % 2 != 0:
+            list.append(i)
+    return list

@@ -12,4 +12,5 @@ def add_guests(
     Returns:
         list[str]: lista atualizada
     """
-    pass
+
+    return guests +new_guests
